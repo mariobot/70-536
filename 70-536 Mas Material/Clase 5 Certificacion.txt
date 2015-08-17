@@ -1,0 +1,62 @@
+qudamos que las sesiones para alcanzar a ver todo lo vamos a hacer
+
+queda para el martes 12
+
+Aplicaciones de dominio y servicio.
+
+Aplicaciones de DOMINIOS
+
+Cuando se necesita utilizar un ensamblado de un 3°
+Ayudan a proteger todos los ensamblados de un tercero en nivel de seguridad
+Cada programa instancia una aplicacion de dominio
+Permite que cada ensamblado se ejecute por independiente
+Cada aplicacion de dominio tiene su espacio en memoria.
+La aplicacion de dominio tiene control sobre los ensamblados
+y si se cae o colapsa alguno de estos el domino no permite que colapse la aplicacion
+Opciones para cargar un dominio
+Dominios de aplicaciones y subprocesos
+
+Clase AppDomain
+
+Tarea revisar cual es el error del ejemplo en vs2010
+
+Aplicaciones de Servicios de Windoes
+
+crear un servicio de windows
+
+que carge una aplicacion de windows y cargue un archivo de texto
+y lo muestre cada cierto tiempo
+
+msn
+
+nvenegar@hotmail.com
+
+nelson.vanegas skype
+
+report viewer
+
+rdl
+Cronograma de actividades
+
+Framework Fundamentals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+			2 Input/Output . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+			3 Searching, Modifying, and Encoding Text . . . . . . . . . . . . . . . . . . . . . . . . . 97
+			4 Collections and Generics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+			5 Serialization. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+sab	2		6 Graphics. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+	2		7 Threading . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 269
+	
+sab	9		8 Application Domains and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
+
+mar	12		9 Installing and Configuring Applications . . . . . . . . . . . . . . . . . . . . . . . . 359
+
+sab	16		10 Logging and Systems Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . 399
+			11 Application Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 447
+
+mar 19		12 User and Data Security . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 521
+
+sab	23		13 Interoperating with COM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 603
+			14 Reflection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 631
+
+sab	30		15 Mail. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .651
+			16 Globalization. .

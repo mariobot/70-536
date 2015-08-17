@@ -1,0 +1,22 @@
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\bin\Debug\AppTestCapIII.exe
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\bin\Debug\AppTestCapIII.pdb
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.Form1.resources
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.Properties.Resources.resources
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.exe
+c:\users\oscar2\documents\visual studio 2010\Projects\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.pdb
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.exe
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.pdb
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\bin\Debug\AppTestCapIII.exe
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\bin\Debug\AppTestCapIII.pdb
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.Form1.resources
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.Properties.Resources.resources
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\MaRioBoT\Desktop\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\ResGen.write.1.tlog
+D:\Certificacion 70-536\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.exe
+D:\Certificacion 70-536\AppTestCapIII\AppTestCapIII\AppTestCapIII\obj\x86\Debug\AppTestCapIII.pdb

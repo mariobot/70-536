@@ -1,0 +1,9 @@
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\bin\Debug\Graphics.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\bin\Debug\Graphics.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\Graphics.Form1.resources
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\Graphics.Properties.Resources.resources
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\Graphics.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Graphics\obj\x86\Debug\Graphics.pdb

@@ -1,0 +1,10 @@
+C:\Users\JohnF117\Desktop\Adrian\Practica3\MiLibreria\obj\Debug\MiLibreria.csprojResolveAssemblyReference.cache
+C:\Users\JohnF117\Desktop\Adrian\Practica3\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\JohnF117\Desktop\Adrian\Practica3\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\JohnF117\Desktop\Adrian\Practica3\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\JohnF117\Desktop\Adrian\Practica3\MiLibreria\obj\Debug\MiLibreria.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\MiLibreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\MiLibreria\obj\Debug\MiLibreria.pdb

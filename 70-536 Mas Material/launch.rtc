@@ -1,0 +1,21 @@
+<rtc> 
+<Param authTicket ="" />
+<Param customAiccSid ="" />
+<Param customExtra1 ="" />    
+<Param customExtra2 ="" />
+<Param customExtra3 ="" />
+<Param customSource ="" />
+<Param isLobby = ""/>
+<Param role = "attend"/>
+<Param meetingEndTime ="Thu Oct 28 19:45:00 PDT 2010" />
+<Param meetingID ="KT5QJW" />
+<Param meetingPassword ="d&quot;M$mtD:7" />
+<Param meetingStartTime ="Tue Aug 17 17:30:00 PDT 2010" />
+<Param meetingSubject ="Curso de Certificacion 70-536" />
+<Param recordingAgreement ="" />
+<Param startURI ="https://www.livemeeting.com/cc/microsoft" />
+<Param required-media ="DATA" />
+<Param userCompany ="" />
+<Param userDisplayName ="" />
+<Param userEmail ="" />
+</rtc>

@@ -1,0 +1,5 @@
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Serialization\bin\Debug\Serialization.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Serialization\bin\Debug\Serialization.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Serialization\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Serialization\obj\x86\Debug\Serialization.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Serialization\obj\x86\Debug\Serialization.pdb

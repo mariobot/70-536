@@ -1,0 +1,5 @@
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Dictionary\obj\x86\Debug\Dictionary.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Dictionary\obj\x86\Debug\Dictionary.pdb

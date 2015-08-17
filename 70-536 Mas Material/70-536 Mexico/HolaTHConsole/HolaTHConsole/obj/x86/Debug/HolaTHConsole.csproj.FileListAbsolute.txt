@@ -1,0 +1,5 @@
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHConsole\HolaTHConsole\bin\Debug\HolaTHConsole.exe
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHConsole\HolaTHConsole\bin\Debug\HolaTHConsole.pdb
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHConsole\HolaTHConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHConsole\HolaTHConsole\obj\x86\Debug\HolaTHConsole.exe
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHConsole\HolaTHConsole\obj\x86\Debug\HolaTHConsole.pdb

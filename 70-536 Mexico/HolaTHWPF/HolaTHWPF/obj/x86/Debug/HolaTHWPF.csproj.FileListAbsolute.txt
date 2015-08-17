@@ -1,0 +1,13 @@
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\bin\Debug\HolaTHWPF.exe
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\bin\Debug\HolaTHWPF.pdb
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\MainWindow.baml
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\MainWindow.g.cs
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\App.g.cs
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\HolaTHWPF_MarkupCompile.cache
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\HolaTHWPF.g.resources
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\HolaTHWPF.Properties.Resources.resources
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\HolaTHWPF.exe
+d:\users\el mike .net\documents\visual studio 2010\Projects\HolaTHWPF\HolaTHWPF\obj\x86\Debug\HolaTHWPF.pdb

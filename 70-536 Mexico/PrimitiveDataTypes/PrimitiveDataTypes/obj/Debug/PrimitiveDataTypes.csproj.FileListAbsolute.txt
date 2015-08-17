@@ -1,0 +1,28 @@
+H:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+H:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\ResolveAssemblyReference.cache
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\GenerateResource.read.1.tlog
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\GenerateResource.write.1.tlog
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+F:\C# TelmexHub\Session 3\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\GenerateResource.write.1.tlog

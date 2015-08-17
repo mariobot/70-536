@@ -1,0 +1,5 @@
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Collection\bin\Debug\Collection.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Collection\bin\Debug\Collection.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Collection\obj\x86\Debug\Collection.exe
+C:\Users\MaRioBoT\Documents\Visual Studio 2010\Projects\70-536\Collection\obj\x86\Debug\Collection.pdb

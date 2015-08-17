@@ -1,0 +1,10 @@
+F:\SixFlags\WinPhone7\PracticaUnoTH\PracticaUnoTH\bin\Debug\PracticaUnoTH.exe
+F:\SixFlags\WinPhone7\PracticaUnoTH\PracticaUnoTH\bin\Debug\PracticaUnoTH.pdb
+F:\SixFlags\WinPhone7\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\PracticaUnoTH.csprojResolveAssemblyReference.cache
+F:\SixFlags\WinPhone7\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\PracticaUnoTH.exe
+F:\SixFlags\WinPhone7\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\PracticaUnoTH.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\PracticaUnoTH.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\PracticaUnoTH.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PracticaUnoTH\PracticaUnoTH\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PracticaUnoTH\PracticaUnoTH\bin\Debug\PracticaUnoTH.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\PracticaUnoTH\PracticaUnoTH\bin\Debug\PracticaUnoTH.pdb

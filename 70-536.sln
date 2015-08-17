@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{41257B9F-7389-465A-81B3-5C43EC41279C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionario", "Dictionary\Diccionario.csproj", "{97D02BDD-46B0-4753-AEB1-C577B661804C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{8A53B0A3-B272-429F-A432-A1EC2B5A1EE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics", "Graphics\Graphics.csproj", "{052D9857-DFF9-48C2-A172-348CA99BB010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41257B9F-7389-465A-81B3-5C43EC41279C}.Debug|x86.ActiveCfg = Debug|x86
+		{41257B9F-7389-465A-81B3-5C43EC41279C}.Debug|x86.Build.0 = Debug|x86
+		{41257B9F-7389-465A-81B3-5C43EC41279C}.Release|x86.ActiveCfg = Release|x86
+		{41257B9F-7389-465A-81B3-5C43EC41279C}.Release|x86.Build.0 = Release|x86
+		{97D02BDD-46B0-4753-AEB1-C577B661804C}.Debug|x86.ActiveCfg = Debug|x86
+		{97D02BDD-46B0-4753-AEB1-C577B661804C}.Debug|x86.Build.0 = Debug|x86
+		{97D02BDD-46B0-4753-AEB1-C577B661804C}.Release|x86.ActiveCfg = Release|x86
+		{97D02BDD-46B0-4753-AEB1-C577B661804C}.Release|x86.Build.0 = Release|x86
+		{8A53B0A3-B272-429F-A432-A1EC2B5A1EE9}.Debug|x86.ActiveCfg = Debug|x86
+		{8A53B0A3-B272-429F-A432-A1EC2B5A1EE9}.Debug|x86.Build.0 = Debug|x86
+		{8A53B0A3-B272-429F-A432-A1EC2B5A1EE9}.Release|x86.ActiveCfg = Release|x86
+		{8A53B0A3-B272-429F-A432-A1EC2B5A1EE9}.Release|x86.Build.0 = Release|x86
+		{052D9857-DFF9-48C2-A172-348CA99BB010}.Debug|x86.ActiveCfg = Debug|x86
+		{052D9857-DFF9-48C2-A172-348CA99BB010}.Debug|x86.Build.0 = Debug|x86
+		{052D9857-DFF9-48C2-A172-348CA99BB010}.Release|x86.ActiveCfg = Release|x86
+		{052D9857-DFF9-48C2-A172-348CA99BB010}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

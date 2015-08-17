@@ -1,0 +1,23 @@
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.csprojResolveAssemblyReference.cache
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.Pages.Inicio.resources
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.Properties.Resources.resources
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.csproj.GenerateResource.Cache
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\bin\Debug\PracticaTHB.exe
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\bin\Debug\PracticaTHB.pdb
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.exe
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\obj\x86\Debug\PracticaTHB.pdb
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\bin\Debug\MiLibreria.dll
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\bin\Debug\MiLibreria.pdb
+C:\Users\JohnF117\Desktop\Adrian\Practica3\PracticaTHB\bin\Debug\PracticaTHB.exe.config
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\bin\Debug\PracticaTHB.exe.config
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\PracticaTHB.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\PracticaTHB.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\bin\Debug\PracticaTHB.exe
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\bin\Debug\PracticaTHB.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\bin\Debug\MiLibreria.dll
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\bin\Debug\MiLibreria.pdb
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\PracticaTHB.Pages.Inicio.resources
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\PracticaTHB.Properties.Resources.resources
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\MaRioBoT\Desktop\70-536 Mexico\Practica\PracticaTHB\obj\x86\Debug\ResGen.write.1.tlog
